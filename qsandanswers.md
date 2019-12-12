@@ -1,1 +1,1 @@
-hi
+it's when you merge a file by yourself, maually, and they merge to 2 separate lines of code
